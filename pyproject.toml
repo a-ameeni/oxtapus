@@ -16,7 +16,7 @@ polars = "^1.4"
 httpx = "^0.25.0"
 tenacity = "^8.2"
 pydantic = "^2.8"
-requests = "^2.32"
+requests = "^2.33"
 jdatetime = "^5.0"
 
 
